@@ -1,0 +1,88 @@
+---
+product-family:
+  title: NetAppコンソールのドキュメント
+  lead: NetAppコンソールは、オンプレミスとクラウド環境全体にわたるストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。機能別にドキュメントを参照するか、検索を使用してコンテンツを見つけます。
+  summary: NetAppコンソールは、オンプレミスとクラウド環境全体にわたるストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。機能別にドキュメントを参照するか、検索を使用してコンテンツを見つけます。
+  sidebarlinks:
+  - title: 全て
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: エージェント
+    tags: agents
+  - title: 管理
+    tags: console
+  - title: ガバナンス
+    tags: governance
+  - title: 健康
+    tags: health
+  - title: モビリティ
+    tags: data services
+  - title: 保護
+    tags: data services
+  - title: ストレージ
+    tags: storage
+  - title: ワークロード
+    tags: data services
+  tiles:
+  - title: セットアップと管理
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: アクセス管理とエージェントの設定など、 NetAppコンソールの使用を開始する方法を学習します。
+    tags: all, console, agents
+  - title: NetAppデータサービス
+    icon: "./media/icon-backup.png"
+    url: "../data-services-family/index.html"
+    summary: ストレージ インフラストラクチャを保護し、安全に保ちます。
+    tags: all,health, data services
+  - title: ストレージ管理
+    icon: "./media/icon-onprem.png"
+    url: "../storage-management-family/index.html"
+    summary: オンプレミスとクラウド ストレージの両方を集中管理します。
+    tags: all,storage
+  - title: リリース ノート
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: NetAppコンソール プラットフォームとデータ サービス全体の新機能について説明します。
+    tags: all
+  - title: API
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/console-automation/index.html
+    summary: クラウドベースのリソースをプログラムで管理します。
+    tags: all,api
+  - title: 自動化ハブ
+    icon: "./media/icon-automation.png"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    summary: スクリプト ソリューションを使用して、 NetApp製品とサービスの導入と統合を自動化します。
+    tags: all,governance
+  - title: デジタルアドバイザー（Active IQ）
+    icon: "./media/icon-activeiq.png"
+    url: "../active-iq/index.html"
+    tags: all,health
+    summary: ストレージの健全性を最適に保つ実用的なインテリジェンス。
+  - title: ライセンスとサブスクリプション
+    icon: "./media/icon-digital-wallet.png"
+    url: "../console-licenses-subscriptions/index.html"
+    tags: all,console
+    summary: ライセンスとサブスクリプションを管理および監視します。
+  - title: ライフサイクルプランニング
+    icon: "./media/icon-economic-efficiency.png"
+    url: "../console-lifecycle-planning/index.html"
+    summary: 容量限界に近づいているシステムや、耐用年数の終わりに近づいているシステムに関する推奨事項を受け取ります。
+    tags: all,storage
+  - title: ソフトウェアアップデート
+    icon: "./media/icon-software-updates.png"
+    url: "../console-software-updates/index.html"
+    summary: ONTAPアップグレードの評価、計画、実行を自動化します。
+    tags: all,health, storage
+  - title: ストレージシステムのアラート
+    icon: "./media/icon-alerts.png"
+    url: "../console-alerts/index.html"
+    summary: ONTAPオンプレミス システムのリアルタイム システム アラートを表示し、対応します。
+    tags: all,storage
+  - title: 持続可能性
+    icon: "./media/icon-sustainability.png"
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
+    summary: 持続可能性の目標を達成するためにシステムの環境への影響を監視します。
+    tags: all,health
