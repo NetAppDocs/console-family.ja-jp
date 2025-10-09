@@ -1,8 +1,8 @@
 ---
 product-family:
-  title: NetAppコンソールのドキュメント
-  lead: NetAppコンソールは、オンプレミスとクラウド環境全体にわたるストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。機能別にドキュメントを参照するか、検索を使用してコンテンツを見つけます。
-  summary: NetAppコンソールは、オンプレミスとクラウド環境全体にわたるストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。機能別にドキュメントを参照するか、検索を使用してコンテンツを見つけます。
+  title: NetApp Consoleのドキュメント
+  lead: NetApp Consoleは、オンプレミスとクラウド環境全体にわたるストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。機能別にドキュメントを参照するか、検索を使用してコンテンツを見つけます。
+  summary: NetApp Consoleは、オンプレミスとクラウド環境全体にわたるストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。機能別にドキュメントを参照するか、検索を使用してコンテンツを見つけます。
   sidebarlinks:
   - title: 全て
     tags: all
@@ -29,9 +29,9 @@ product-family:
   - title: セットアップと管理
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: アクセス管理とエージェントの設定など、 NetAppコンソールの使用を開始する方法を学習します。
+    summary: アクセス管理とエージェントの設定など、 NetApp Consoleの使用を開始する方法を学習します。
     tags: all, console, agents
-  - title: NetAppデータサービス
+  - title: NetApp Data Services
     icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: ストレージ インフラストラクチャを保護し、安全に保ちます。
@@ -44,7 +44,7 @@ product-family:
   - title: リリース ノート
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: NetAppコンソール プラットフォームとデータ サービス全体の新機能について説明します。
+    summary: NetApp Consoleプラットフォームとデータ サービス全体の新機能について説明します。
     tags: all
   - title: API
     icon: "./media/icon-api.png"
@@ -61,7 +61,7 @@ product-family:
     url: "../active-iq/index.html"
     tags: all,health
     summary: ストレージの健全性を最適に保つ実用的なインテリジェンス。
-  - title: ライセンスとサブスクリプション
+  - title: Licenses and subscriptions
     icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
