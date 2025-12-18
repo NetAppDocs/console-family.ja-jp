@@ -26,7 +26,7 @@ product-family:
   - title: ワークロード
     tags: data services
   tiles:
-  - title: セットアップと管理
+  - title: NetApp Console管理
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: アクセス管理とエージェントの設定など、 NetApp Consoleの使用を開始する方法を学習します。

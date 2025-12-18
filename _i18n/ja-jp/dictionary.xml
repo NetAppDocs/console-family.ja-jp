@@ -155,7 +155,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">ストレージ</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">ワークロード</block>
-  <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">セットアップと管理</block>
   <block id="06a16afdc09ef0c65510cc192e5feba7" category="sidebar">アクセス管理とエージェントの設定など、 NetApp Consoleの使用を開始する方法を学習します。</block>
   <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
   <block id="a579a5e037931a607eeaff13af9a8d92" category="sidebar">ストレージ インフラストラクチャを保護し、安全に保ちます。</block>
@@ -179,4 +178,5 @@
   <block id="19bea5bec76c66ef8bd189aa23a4c860" category="sidebar">持続可能性</block>
   <block id="be0b500c758e1c5675397fbdf7b45ef1" category="sidebar">持続可能性の目標を達成するためにシステムの環境への影響を監視します。</block>
   <block id="3c031b939f6ec312ee601d021e7a6644" category="sidebar">NetApp Console</block>
+  <block id="2749b80160d80f9500fa8b5d5b4da1ba" category="sidebar">NetApp Console管理</block>
 </blocks>
