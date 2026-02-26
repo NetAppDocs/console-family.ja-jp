@@ -29,7 +29,7 @@ product-family:
   - title: NetApp Console管理
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: アクセス管理とエージェントの設定など、 NetApp Consoleの使用を開始する方法を学習します。
+    summary: NetApp Consoleの使用を開始する方法（アクセス管理とConsoleエージェントの設定を含む）について説明します。
     tags: all, console, agents
   - title: NetApp Data Services
     icon: "./media/icon-backup.png"
@@ -56,6 +56,11 @@ product-family:
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: スクリプト ソリューションを使用して、 NetApp製品とサービスの導入と統合を自動化します。
     tags: all,governance
+  - title: Data Infrastructure Insights
+    icon: "./media/icon-compute.png"
+    url: https://docs.netapp.com/us-en/data-infrastructure-insights/task_cloud_insights_onboarding_1.html
+    tags: all,governance
+    summary: パブリック クラウドやプライベート データ センターを含むすべてのリソースを監視、トラブルシューティング、最適化します。
   - title: デジタルアドバイザー（Active IQ）
     icon: "./media/icon-activeiq.png"
     url: "../active-iq/index.html"
