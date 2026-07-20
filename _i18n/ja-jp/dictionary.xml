@@ -181,4 +181,6 @@
   <block id="02703dffc7022f0e60a449dd217815b5" category="sidebar">NetApp Consoleの使用を開始する方法（アクセス管理とConsoleエージェントの設定を含む）について説明します。</block>
   <block id="9406fb3af0e8e2bf8446823785c0e069" category="sidebar">Data Infrastructure Insights</block>
   <block id="04962f63ab8d912b0992dee20f5b6853" category="sidebar">パブリック クラウドやプライベート データ センターを含むすべてのリソースを監視、トラブルシューティング、最適化します。</block>
+  <block id="1f669523a45bf910651af3583e944a20" category="sidebar">優れた設計のダッシュボード</block>
+  <block id="25963fb45cc76c001f06c6648e51d7be" category="sidebar">信頼性、安全性、効率性、および対費用効果の高いストレージ構成をベストプラクティスに基づいて維持します。</block>
 </blocks>
