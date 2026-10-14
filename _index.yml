@@ -91,7 +91,3 @@ product-family:
     url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: 持続可能性の目標を達成するためにシステムの環境への影響を監視します。
     tags: all,health
-  - title: 優れた設計のダッシュボード
-    url: https://docs.netapp.com/us-en/console-well-architected/index.html
-    summary: 信頼性、安全性、効率性、および対費用効果の高いストレージ構成をベストプラクティスに基づいて維持します。
-    tags: all,health,storage
